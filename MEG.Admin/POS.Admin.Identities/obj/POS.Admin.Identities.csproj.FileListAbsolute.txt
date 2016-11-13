@@ -1,0 +1,45 @@
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\ResolveAssemblyReference.cache
+J:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb
+G:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+G:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+G:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\ResolveAssemblyReference.cache
+G:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+G:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb
+E:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+E:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+E:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+E:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb
+F:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+F:\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+F:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+F:\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb

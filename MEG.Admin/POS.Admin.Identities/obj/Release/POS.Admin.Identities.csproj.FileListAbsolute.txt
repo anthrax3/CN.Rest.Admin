@@ -1,0 +1,8 @@
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Release\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Release\POS.Admin.Identities.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="POS.Admin.Appl.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="POS_Admin_Appl_Server_WS_posservice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:1514/POS.Server.WS/posservice.asmx</Value>
+    </Setting>
+    <Setting Name="POS_Admin_Appl_WSPOS_posservice" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://meg-cloudservices.net/business/posservice.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

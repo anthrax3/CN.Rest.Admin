@@ -1,0 +1,65 @@
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.csprojResolveAssemblyReference.cache
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb

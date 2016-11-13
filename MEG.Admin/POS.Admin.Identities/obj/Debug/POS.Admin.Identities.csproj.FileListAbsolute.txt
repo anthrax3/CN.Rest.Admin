@@ -1,0 +1,25 @@
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\ResolveAssemblyReference.cache
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.csprojResolveAssemblyReference.cache
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Identities\bin\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.Identities\obj\Debug\POS.Admin.Identities.pdb

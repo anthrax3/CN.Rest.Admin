@@ -1,0 +1,138 @@
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\POS.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+J:\Projects\POS.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll.config
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.XmlSerializers.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.XmlSerializers.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll.config
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.XmlSerializers.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\obj\Release\ResolveAssemblyReference.cache
+J:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.dll
+J:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.pdb
+J:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.XmlSerializers.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll.config
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.XmlSerializers.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.pdb
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.dll
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.pdb
+G:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.pdb
+G:\Projects\POS.Admin\POS.Admin.Data\obj\Release\ResolveAssemblyReference.cache
+G:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.dll
+G:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.pdb
+G:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.XmlSerializers.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Security.dll
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+J:\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Security.pdb
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll.config
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.XmlSerializers.dll
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.pdb
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.dll
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.dll
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.pdb
+E:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.pdb
+E:\Projects\POS.Admin\POS.Admin.Data\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.dll
+E:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.pdb
+E:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.XmlSerializers.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll.config
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.XmlSerializers.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.pdb
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.dll
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.pdb
+F:\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.pdb
+F:\Projects\POS.Admin\POS.Admin.Data\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.dll
+F:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.pdb
+F:\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.XmlSerializers.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll.config
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.XmlSerializers.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Data.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Release\POS.Security.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Release\POS.Admin.Data.XmlSerializers.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll.config
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Data.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.Data\obj\Debug\POS.Admin.Data.pdb

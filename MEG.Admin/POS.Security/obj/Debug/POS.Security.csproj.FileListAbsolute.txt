@@ -1,0 +1,25 @@
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\ResolveAssemblyReference.cache
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.csprojResolveAssemblyReference.cache
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Debug\POS.Security.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Debug\POS.Security.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Security\bin\Debug\POS.Security.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Security\bin\Debug\POS.Security.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Security\obj\Debug\POS.Security.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Security\obj\Debug\POS.Security.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Security\obj\Debug\POS.Security.pdb

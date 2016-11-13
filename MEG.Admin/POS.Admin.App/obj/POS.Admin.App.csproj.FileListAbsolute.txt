@@ -1,0 +1,16 @@
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.App.exe.config
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.App.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.App.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.Form1.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.Properties.Resources.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\Remoting\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.App.exe.config
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.MainForm.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.Properties.Resources.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.App.csproj.GenerateResource.Cache

@@ -1,0 +1,260 @@
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ConsultaInvSucursal.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedorDetalle.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedor.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionFormaPago.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCombinaciones.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCliente.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionGrupo.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCategoria.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionImpuestos.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionMesa.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPaquetes.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSubcategoria.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUnidades.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulosProveedor.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.GeneraCodigos.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEAN.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.OrdenesTerminal.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCCatalogos.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCMovimientos.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCSeguridad.resources
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Utilities.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Utilities.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+C:\Documents and Settings\Mario Malta\Mis documentos\Visual Studio 2008\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\ResolveAssemblyReference.cache
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ConsultaInvSucursal.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedorDetalle.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedor.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionFormaPago.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCombinaciones.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCliente.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionGrupo.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCategoria.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionImpuestos.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionMesa.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPaquetes.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSubcategoria.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUnidades.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulosProveedor.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.GeneraCodigos.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEAN.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.OrdenesTerminal.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCCatalogos.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCMovimientos.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCSeguridad.resources
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb
+D:\DropBox\Malta\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ViewImagen.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csprojResolveAssemblyReference.cache
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ConsultaInvSucursal.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedorDetalle.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedor.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionFormaPago.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCombinaciones.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCliente.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionGrupo.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCategoria.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionImpuestos.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionMesa.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPaquetes.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSubcategoria.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUnidades.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulosProveedor.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.GeneraCodigos.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEAN.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.OrdenesTerminal.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCCatalogos.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCMovimientos.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCSeguridad.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ViewImagen.resources
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csproj.GenerateResource.Cache
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Utilities.dll
+F:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Utilities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Utilities.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Utilities.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ConsultaInvSucursal.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedorDetalle.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedor.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionFormaPago.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCombinaciones.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCliente.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionGrupo.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCategoria.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionImpuestos.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionMesa.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPaquetes.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSubcategoria.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUnidades.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulosProveedor.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.GeneraCodigos.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEAN.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.OrdenesTerminal.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCCatalogos.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCMovimientos.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCSeguridad.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ViewImagen.resources
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csproj.GenerateResource.Cache
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe.licenses
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Utilities.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ConsultaInvSucursal.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedorDetalle.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedor.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionFormaPago.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCombinaciones.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCliente.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionGrupo.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCategoria.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionImpuestos.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionMesa.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPaquetes.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSubcategoria.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUnidades.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulosProveedor.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.GeneraCodigos.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEAN.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.OrdenesTerminal.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCCatalogos.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCMovimientos.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCSeguridad.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ViewImagen.resources
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csproj.GenerateResource.Cache
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe.licenses
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+D:\Dropbox\PROJECTS\GitHub\CN.AdminRest\MEG.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb

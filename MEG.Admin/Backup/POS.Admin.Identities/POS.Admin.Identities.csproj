@@ -1,0 +1,66 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9FA5536E-A67D-4B55-9021-80DB65098154}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>POS.Admin.Identities</RootNamespace>
+    <AssemblyName>POS.Admin.Identities</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Articulos.cs" />
+    <Compile Include="ArticulosCodigo.cs" />
+    <Compile Include="ArticulosProveedor.cs" />
+    <Compile Include="ArticulosImagen.cs" />
+    <Compile Include="Categorias.cs" />
+    <Compile Include="Clientes.cs" />
+    <Compile Include="Combinaciones.cs" />
+    <Compile Include="PedidosProveedor.cs" />
+    <Compile Include="FormasPago.cs" />
+    <Compile Include="Grupos.cs" />
+    <Compile Include="Mesas.cs" />
+    <Compile Include="Paquetes.cs" />
+    <Compile Include="SubCategorias.cs" />
+    <Compile Include="DevolucionOrden.cs" />
+    <Compile Include="Entradas.cs" />
+    <Compile Include="Objetos.cs" />
+    <Compile Include="Ordenes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proveedores.cs" />
+    <Compile Include="Sucursales.cs" />
+    <Compile Include="Unidades.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

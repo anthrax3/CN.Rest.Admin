@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CC1B7D38-4E15-40A7-8E74-BE6F492E80EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>POS.Admin.Appl</RootNamespace>
+    <AssemblyName>POS.Admin.Appl</AssemblyName>
+    <SignAssembly>false</SignAssembly>
+    <SignManifests>false</SignManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>false</GenerateManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>6B6A305DFF6F682EA7627E708D4163AA523AE565</ManifestCertificateThumbprint>
+    <ManifestKeyFile>POS.Admin.Appl_1_TemporaryKey.pfx</ManifestKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>ftp://www.miempresaglobal.com.mx/www/Downloads/Administrador/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <InstallUrl>http://www.miempresaglobal.com.mx/Downloads/Administrador/</InstallUrl>
+    <SupportUrl>http://www.miempresaglobal.com.mx/Support</SupportUrl>
+    <ProductName>MEG.Admin.App</ProductName>
+    <PublisherName>Mi Empresa Global</PublisherName>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoStdLib>false</NoStdLib>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Barcodenet, Version=6.0.2392.39809, Culture=neutral, PublicKeyToken=3c026698ae719047, processorArchitecture=MSIL" />
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, PublicKeyToken=0ed4c5f2bbf81ac0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Archivos de programa\Sunisoft\IrisSkin\Bin\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="POS.Utilities, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\POS.Client\POS.Utilities\bin\Release\POS.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.Themes.TelerikMetro, Version=2016.2.608.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceso.Designer.cs">
+      <DependentUpon>Acceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscaArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscaArticulos.Designer.cs">
+      <DependentUpon>BuscaArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaInvSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaInvSucursal.Designer.cs">
+      <DependentUpon>ConsultaInvSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionPedidoProveedorDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionPedidoProveedorDetalle.Designer.cs">
+      <DependentUpon>EdicionPedidoProveedorDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionPedidoProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionPedidoProveedor.Designer.cs">
+      <DependentUpon>EdicionPedidoProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionFormaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionFormaPago.Designer.cs">
+      <DependentUpon>EdicionFormaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionCombinaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionCombinaciones.Designer.cs">
+      <DependentUpon>EdicionCombinaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionCliente.Designer.cs">
+      <DependentUpon>EdicionCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionGrupo.Designer.cs">
+      <DependentUpon>EdicionGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionCategoria.Designer.cs">
+      <DependentUpon>EdicionCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionImpuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionImpuestos.Designer.cs">
+      <DependentUpon>EdicionImpuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionMesa.Designer.cs">
+      <DependentUpon>EdicionMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionPaquetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionPaquetes.Designer.cs">
+      <DependentUpon>EdicionPaquetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionSubcategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionSubcategoria.Designer.cs">
+      <DependentUpon>EdicionSubcategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionUnidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionUnidades.Designer.cs">
+      <DependentUpon>EdicionUnidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionArticulosProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionArticulosProveedor.Designer.cs">
+      <DependentUpon>EdicionArticulosProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionDevolucionOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionDevolucionOrden.Designer.cs">
+      <DependentUpon>EdicionDevolucionOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionDevOrdenDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionDevOrdenDetalle.Designer.cs">
+      <DependentUpon>EdicionDevOrdenDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionEntradaDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionEntradaDetalle.Designer.cs">
+      <DependentUpon>EdicionEntradaDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionArticulo.Designer.cs">
+      <DependentUpon>EdicionArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionEntrada.Designer.cs">
+      <DependentUpon>EdicionEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionOrden.Designer.cs">
+      <DependentUpon>EdicionOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionOrdenDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionOrdenDetalle.Designer.cs">
+      <DependentUpon>EdicionOrdenDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionPolitica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionPolitica.Designer.cs">
+      <DependentUpon>EdicionPolitica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionProveedor.Designer.cs">
+      <DependentUpon>EdicionProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionRol.Designer.cs">
+      <DependentUpon>EdicionRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionSucursal.Designer.cs">
+      <DependentUpon>EdicionSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionUsuario.Designer.cs">
+      <DependentUpon>EdicionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneraCodigos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneraCodigos.Designer.cs">
+      <DependentUpon>GeneraCodigos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globales.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoCodigoEan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoCodigoEan.Designer.cs">
+      <DependentUpon>NuevoCodigoEan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrdenesTerminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrdenesTerminal.Designer.cs">
+      <DependentUpon>OrdenesTerminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewImagen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewImagen.Designer.cs">
+      <DependentUpon>ViewImagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WSPOS\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Acceso.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Acceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaInvSucursal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ConsultaInvSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionPedidoProveedorDetalle.resx">
+      <DependentUpon>EdicionPedidoProveedorDetalle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionPedidoProveedor.resx">
+      <DependentUpon>EdicionPedidoProveedor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionFormaPago.resx">
+      <DependentUpon>EdicionFormaPago.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionCombinaciones.resx">
+      <DependentUpon>EdicionCombinaciones.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionCliente.resx">
+      <DependentUpon>EdicionCliente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionGrupo.resx">
+      <DependentUpon>EdicionGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionCategoria.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionImpuestos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionImpuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionMesa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionPaquetes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionPaquetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionSubcategoria.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionSubcategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionUnidades.resx">
+      <DependentUpon>EdicionUnidades.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionArticulosProveedor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionArticulosProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionDevolucionOrden.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionDevolucionOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionDevOrdenDetalle.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionDevOrdenDetalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionEntradaDetalle.resx">
+      <DependentUpon>EdicionEntradaDetalle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionArticulo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionEntrada.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionOrden.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionOrdenDetalle.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionOrdenDetalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionPolitica.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionPolitica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionProveedor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionRol.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionSucursal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionUsuario.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdicionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneraCodigos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GeneraCodigos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoCodigoEan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NuevoCodigoEan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrdenesTerminal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OrdenesTerminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCCatalogos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UCCatalogos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCMovimientos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UCMovimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCSeguridad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UCSeguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ViewImagen.resx">
+      <DependentUpon>ViewImagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes.Designer.cs">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCCatalogos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCCatalogos.Designer.cs">
+      <DependentUpon>UCCatalogos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCMovimientos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCMovimientos.Designer.cs">
+      <DependentUpon>UCMovimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCSeguridad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCSeguridad.Designer.cs">
+      <DependentUpon>UCSeguridad.cs</DependentUpon>
+    </Compile>
+    <None Include="Web References\WSPOS\posservice.wsdl" />
+    <None Include="Web References\WSPOS\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\113.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\POS.Admin.Identities.ArticulosCodigo.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo MEG colores 01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create_form.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create_form1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_gris.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_gris2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-down-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ko-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InvoiceSearch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Balance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\Statistics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="reports\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\POS.Admin.Business\POS.Admin.Business.csproj">
+      <Project>{3B9344C4-0C7A-41C4-B8A1-DE2792AB08DD}</Project>
+      <Name>POS.Admin.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POS.Admin.Identities\POS.Admin.Identities.csproj">
+      <Project>{9FA5536E-A67D-4B55-9021-80DB65098154}</Project>
+      <Name>POS.Admin.Identities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://50.57.224.133/POS.Server.Commerce/posservice.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WSPOS\</RelPath>
+      <UpdateFromURL>http://50.57.224.133/POS.Server.Commerce/posservice.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>POS_Admin_Appl_WSPOS_posservice</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\WSPOS\posservice.disco" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

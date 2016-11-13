@@ -1,0 +1,8 @@
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Release\POS.Security.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Release\POS.Security.pdb
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Release\POS.Security.dll
+D:\Dropbox\PROJECTS\2010\Projects\MEG.Admin\POS.Security\obj\Release\POS.Security.pdb

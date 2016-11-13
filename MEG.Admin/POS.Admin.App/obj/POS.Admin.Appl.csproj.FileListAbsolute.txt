@@ -1,0 +1,407 @@
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Utilities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Utilities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEan.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Utilities.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Utilities.pdb
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEan.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe.config
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.XmlSerializers.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.XmlSerializers.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Acceso.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevolucionOrden.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntradaDetalle.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulo.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntrada.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrden.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrdenDetalle.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionPolitica.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionProveedor.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionRol.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionSucursal.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionUsuario.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.MainForm.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.NuevoCodigoEan.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Properties.Resources.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Reportes.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.exe
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.pdb
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.XmlSerializers.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.dll
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe.config
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.exe
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.pdb
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.XmlSerializers.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.XmlSerializers.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.pdb
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.XmlSerializers.dll
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\ResolveAssemblyReference.cache
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Acceso.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevolucionOrden.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntradaDetalle.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulo.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntrada.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrden.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrdenDetalle.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionPolitica.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionProveedor.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionRol.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionSucursal.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionUsuario.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.MainForm.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.NuevoCodigoEan.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Properties.Resources.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Reportes.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.csproj.GenerateResource.Cache
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe.config
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.exe
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.pdb
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.XmlSerializers.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe.config
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.exe
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.pdb
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.XmlSerializers.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.XmlSerializers.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.pdb
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.dll
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.pdb
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.pdb
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.pdb
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.pdb
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.pdb
+G:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.XmlSerializers.dll
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\ResolveAssemblyReference.cache
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Acceso.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevolucionOrden.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntradaDetalle.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulo.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntrada.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrden.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrdenDetalle.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionPolitica.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionProveedor.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionRol.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionSucursal.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionUsuario.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.MainForm.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.NuevoCodigoEan.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Properties.Resources.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Reportes.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.csproj.GenerateResource.Cache
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.ConsultaInvSucursal.resources
+C:\Documents and Settings\Mario\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.ConsultaInvSucursal.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.ConsultaInvSucursal.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.OrdenesTerminal.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.OrdenesTerminal.resources
+J:\Projects\POS.Admin\POS.Admin.App\bin\Release\Barcodenet.dll
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.GeneraCodigos.resources
+G:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.GeneraCodigos.resources
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\Barcodenet.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Security.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+J:\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Security.pdb
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ConsultaInvSucursal.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.GeneraCodigos.resources
+J:\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.OrdenesTerminal.resources
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe.config
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.exe
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.pdb
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.XmlSerializers.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.XmlSerializers.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.pdb
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.dll
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.pdb
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.pdb
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.pdb
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.pdb
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.pdb
+E:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.XmlSerializers.dll
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Acceso.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.ConsultaInvSucursal.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevolucionOrden.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntradaDetalle.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulo.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntrada.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrden.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrdenDetalle.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionPolitica.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionProveedor.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionRol.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionSucursal.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionUsuario.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.GeneraCodigos.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.MainForm.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.NuevoCodigoEan.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.OrdenesTerminal.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Properties.Resources.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Reportes.resources
+E:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.csproj.GenerateResource.Cache
+J:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulosProveedor.resources
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.XmlSerializers.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.pdb
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.dll
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.pdb
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.pdb
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.pdb
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.pdb
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.pdb
+F:\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.XmlSerializers.dll
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Acceso.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.ConsultaInvSucursal.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulosProveedor.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevolucionOrden.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntradaDetalle.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulo.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntrada.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrden.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrdenDetalle.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionPolitica.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionProveedor.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionRol.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionSucursal.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionUsuario.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.GeneraCodigos.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.MainForm.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.NuevoCodigoEan.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.OrdenesTerminal.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Properties.Resources.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Reportes.resources
+F:\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe.config
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.exe
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.XmlSerializers.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.exe
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.XmlSerializers.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Appl.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Utilities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Security.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Business.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\POS.Admin.Data.XmlSerializers.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Acceso.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.ConsultaInvSucursal.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulosProveedor.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevolucionOrden.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntradaDetalle.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionArticulo.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionEntrada.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrden.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionOrdenDetalle.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionPolitica.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionProveedor.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionRol.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionSucursal.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionUsuario.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.GeneraCodigos.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.MainForm.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.NuevoCodigoEan.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.OrdenesTerminal.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Properties.Resources.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Reportes.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Release\IrisSkin2.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.Unidades.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Release\POS.Admin.Appl.EdicionUnidades.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Acceso.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.ConsultaInvSucursal.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUnidades.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulosProveedor.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevolucionOrden.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionDevOrdenDetalle.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntradaDetalle.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionArticulo.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionEntrada.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrden.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionOrdenDetalle.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPolitica.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionProveedor.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionRol.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSucursal.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionUsuario.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.GeneraCodigos.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.MainForm.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.OrdenesTerminal.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Properties.Resources.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.Reportes.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.NuevoCodigoEAN.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.config
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\IrisSkin2.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Utilities.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.dll
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Utilities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Identities.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Business.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Data.pdb
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCategoria.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionSubcategoria.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionImpuestos.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPaquetes.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.exe.manifest
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\bin\Debug\POS.Admin.Appl.application
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.TrustInfo.xml
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.exe.manifest
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.application
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCCatalogos.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCSeguridad.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.UCMovimientos.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionMesa.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionGrupo.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCliente.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionCombinaciones.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionFormaPago.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedor.resources
+C:\Documents and Settings\Malta\Mis documentos\Visual Studio 2005\Projects\POS.Admin\POS.Admin.App\obj\Debug\POS.Admin.Appl.EdicionPedidoProveedorDetalle.resources

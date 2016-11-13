@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Archivos de programa\Archivos comunes\Business Objects\2.7\Managed\</ReferencePath>
+    <PublishUrlHistory>ftp://www.miempresaglobal.com.mx/www/Downloads/Administrador/|http://localhost/POS.Admin.Appl/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.miempresaglobal.com.mx/Downloads/Administrador/|http://www.miempresaglobal.com.mx/Administrador/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.miempresaglobal.com.mx/Support</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>

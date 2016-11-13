@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="setTransactionsArray">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="transactionDb" type="tns:TransactionDb" />
+            <s:element minOccurs="0" maxOccurs="1" name="arrayParameters" type="tns:ArrayParameters" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:simpleType name="TransactionDb">
+        <s:restriction base="s:string">
+          <s:enumeration value="SELECT" />
+          <s:enumeration value="UPDATE" />
+          <s:enumeration value="INSERT" />
+        </s:restriction>
+      </s:simpleType>
+      <s:complexType name="ArrayParameters">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="objParameters" type="tns:ArrayOfObjParameters" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfObjParameters">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ObjParameters" nillable="true" type="tns:ObjParameters" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ObjParameters">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ListParameters" type="tns:ArrayOfParameters" />
+          <s:element minOccurs="0" maxOccurs="1" name="strProc" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfParameters">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Parameters" nillable="true" type="tns:Parameters" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Parameters">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="size" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="value" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="setTransactionsArrayResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="setTransactionsArrayResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setTransactionsQuery">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="transactionDb" type="tns:TransactionDb" />
+            <s:element minOccurs="0" maxOccurs="1" name="Parameters" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="setTransactionsQueryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="setTransactionsQueryResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="setTransactionsArraySoapIn">
+    <wsdl:part name="parameters" element="tns:setTransactionsArray" />
+  </wsdl:message>
+  <wsdl:message name="setTransactionsArraySoapOut">
+    <wsdl:part name="parameters" element="tns:setTransactionsArrayResponse" />
+  </wsdl:message>
+  <wsdl:message name="setTransactionsQuerySoapIn">
+    <wsdl:part name="parameters" element="tns:setTransactionsQuery" />
+  </wsdl:message>
+  <wsdl:message name="setTransactionsQuerySoapOut">
+    <wsdl:part name="parameters" element="tns:setTransactionsQueryResponse" />
+  </wsdl:message>
+  <wsdl:portType name="posserviceSoap">
+    <wsdl:operation name="setTransactionsArray">
+      <wsdl:input message="tns:setTransactionsArraySoapIn" />
+      <wsdl:output message="tns:setTransactionsArraySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setTransactionsQuery">
+      <wsdl:input message="tns:setTransactionsQuerySoapIn" />
+      <wsdl:output message="tns:setTransactionsQuerySoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="posserviceSoap" type="tns:posserviceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setTransactionsArray">
+      <soap:operation soapAction="http://tempuri.org/setTransactionsArray" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setTransactionsQuery">
+      <soap:operation soapAction="http://tempuri.org/setTransactionsQuery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="posserviceSoap12" type="tns:posserviceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setTransactionsArray">
+      <soap12:operation soapAction="http://tempuri.org/setTransactionsArray" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setTransactionsQuery">
+      <soap12:operation soapAction="http://tempuri.org/setTransactionsQuery" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="posservice">
+    <wsdl:port name="posserviceSoap" binding="tns:posserviceSoap">
+      <soap:address location="http://localhost:1514/POS.Server.WS/posservice.asmx" />
+    </wsdl:port>
+    <wsdl:port name="posserviceSoap12" binding="tns:posserviceSoap12">
+      <soap12:address location="http://localhost:1514/POS.Server.WS/posservice.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
